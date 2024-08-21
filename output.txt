@@ -1,0 +1,4 @@
+Total number of lines: 4
+Total number of words: 7
+Average number of words per line: 1.75
+Most frequent word: Oi (appeared 2 times)
