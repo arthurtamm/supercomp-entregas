@@ -1,0 +1,2 @@
+Execution time for 36 items: 97068 milliseconds
+
