@@ -1,0 +1,293 @@
+Comparison of Shuffle Heuristic and Probabilistic Heuristic for the Knapsack Problem
+ 
+================ Shuffle Heuristic ================
+---------------- input1.txt -----------------------------
+Run 1 with input1.txt:
+Shuffle Method:
+Execution time: 7.667e-06 seconds
+Max value: 265
+Final weight: 375
+Items selected: 28 31 19 42 49 36 34 
+ 
+Run 2 with input1.txt:
+Shuffle Method:
+Execution time: 7.686e-06 seconds
+Max value: 262
+Final weight: 365
+Items selected: 40 12 48 20 43 
+ 
+Run 3 with input1.txt:
+Shuffle Method:
+Execution time: 7.872e-06 seconds
+Max value: 242
+Final weight: 370
+Items selected: 9 7 48 26 43 1 10 
+ 
+Run 4 with input1.txt:
+Shuffle Method:
+Execution time: 7.752e-06 seconds
+Max value: 185
+Final weight: 376
+Items selected: 8 16 42 12 49 
+ 
+Run 5 with input1.txt:
+Shuffle Method:
+Execution time: 7.467e-06 seconds
+Max value: 304
+Final weight: 361
+Items selected: 13 43 30 3 2 41 
+ 
+---------------- input2.txt -----------------------------
+Run 1 with input2.txt:
+Shuffle Method:
+Execution time: 7.458e-06 seconds
+Max value: 350
+Final weight: 238
+Items selected: 48 37 59 1 68 33 44 0 72 
+ 
+Run 2 with input2.txt:
+Shuffle Method:
+Execution time: 7.267e-06 seconds
+Max value: 208
+Final weight: 239
+Items selected: 49 35 12 9 44 
+ 
+Run 3 with input2.txt:
+Shuffle Method:
+Execution time: 7.338e-06 seconds
+Max value: 288
+Final weight: 239
+Items selected: 52 29 73 25 60 69 63 8 
+ 
+Run 4 with input2.txt:
+Shuffle Method:
+Execution time: 7.332e-06 seconds
+Max value: 268
+Final weight: 238
+Items selected: 2 3 37 6 45 72 
+ 
+Run 5 with input2.txt:
+Shuffle Method:
+Execution time: 7.356e-06 seconds
+Max value: 321
+Final weight: 238
+Items selected: 52 74 4 10 30 29 72 
+ 
+---------------- input3.txt -----------------------------
+Run 1 with input3.txt:
+Shuffle Method:
+Execution time: 7.726e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 4 28 65 8 60 27 29 23 2 35 51 59 63 39 26 49 32 7 3 52 12 54 36 58 50 61 6 48 19 0 1 5 9 45 64 47 11 42 30 13 62 33 15 18 56 57 34 37 40 17 10 55 46 20 22 44 16 43 21 24 53 14 41 25 38 31 
+ 
+Run 2 with input3.txt:
+Shuffle Method:
+Execution time: 8.223e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 15 38 30 16 52 62 13 61 0 51 33 31 39 14 34 56 59 1 63 22 21 35 54 55 50 5 12 58 26 43 29 17 4 23 37 8 25 2 40 45 46 7 18 10 60 32 24 48 6 53 47 27 3 19 42 49 65 57 11 28 20 44 9 41 64 36 
+ 
+Run 3 with input3.txt:
+Shuffle Method:
+Execution time: 7.545e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 42 56 17 33 12 41 47 10 64 46 45 1 44 65 36 59 49 18 62 39 11 58 16 35 27 23 53 37 21 54 52 9 14 2 34 8 40 48 29 20 50 7 57 31 13 4 5 28 6 32 0 38 63 25 61 15 22 55 51 24 30 60 43 26 3 19 
+ 
+Run 4 with input3.txt:
+Shuffle Method:
+Execution time: 7.528e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 26 37 1 15 17 6 31 2 16 56 65 14 4 45 52 54 20 46 39 18 7 28 40 34 22 29 27 13 63 11 62 36 25 59 10 30 47 43 9 50 58 44 21 12 51 3 48 41 42 64 60 24 35 23 49 8 38 33 32 55 0 61 19 53 5 57 
+ 
+Run 5 with input3.txt:
+Shuffle Method:
+Execution time: 8.11e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 44 53 36 62 43 47 1 14 10 52 65 24 9 21 34 2 41 51 19 59 55 30 33 32 54 63 18 28 22 64 48 5 3 6 20 15 56 25 26 38 17 57 7 42 12 23 46 45 4 49 39 29 35 60 27 58 37 16 40 13 8 0 61 31 50 11 
+ 
+---------------- input4.txt -----------------------------
+Run 1 with input4.txt:
+Shuffle Method:
+Execution time: 7.257e-06 seconds
+Max value: 476
+Final weight: 597
+Items selected: 18 26 16 27 17 3 4 11 1 21 19 0 13 15 6 29 28 
+ 
+Run 2 with input4.txt:
+Shuffle Method:
+Execution time: 7.858e-06 seconds
+Max value: 566
+Final weight: 595
+Items selected: 17 12 27 14 7 6 26 25 2 4 16 0 3 10 22 8 21 9 24 13 
+ 
+Run 3 with input4.txt:
+Shuffle Method:
+Execution time: 8.053e-06 seconds
+Max value: 544
+Final weight: 596
+Items selected: 8 9 0 4 15 18 23 7 2 17 3 28 1 6 27 13 24 26 25 
+ 
+Run 4 with input4.txt:
+Shuffle Method:
+Execution time: 7.313e-06 seconds
+Max value: 474
+Final weight: 591
+Items selected: 28 6 24 26 3 20 25 12 8 7 13 29 23 27 19 22 17 15 2 
+ 
+Run 5 with input4.txt:
+Shuffle Method:
+Execution time: 7.331e-06 seconds
+Max value: 494
+Final weight: 594
+Items selected: 29 5 3 1 7 13 4 24 10 14 22 20 6 18 26 27 8 
+ 
+================ Probabilistic Heuristic ================
+---------------- input1.txt -----------------------------
+Run 1 with input1.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.327e-06 seconds
+Max value: 340
+Final weight: 359
+Items selected: 0 1 4 5 7 8 11 
+ 
+Run 2 with input1.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.085e-06 seconds
+Max value: 262
+Final weight: 371
+Items selected: 2 3 4 5 7 9 
+ 
+Run 3 with input1.txt:
+Probabilistic Heuristic Method:
+Execution time: 7.497e-06 seconds
+Max value: 331
+Final weight: 380
+Items selected: 1 2 4 5 11 14 30 
+ 
+Run 4 with input1.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.153e-06 seconds
+Max value: 305
+Final weight: 369
+Items selected: 0 2 3 6 7 8 
+ 
+Run 5 with input1.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.115e-06 seconds
+Max value: 351
+Final weight: 375
+Items selected: 0 4 11 12 14 20 
+ 
+---------------- input2.txt -----------------------------
+Run 1 with input2.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.367e-06 seconds
+Max value: 263
+Final weight: 235
+Items selected: 0 5 6 7 8 9 21 
+ 
+Run 2 with input2.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.326e-06 seconds
+Max value: 196
+Final weight: 238
+Items selected: 1 2 3 5 7 44 
+ 
+Run 3 with input2.txt:
+Probabilistic Heuristic Method:
+Execution time: 7.787e-06 seconds
+Max value: 381
+Final weight: 239
+Items selected: 1 2 4 8 11 24 40 72 
+ 
+Run 4 with input2.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.711e-06 seconds
+Max value: 272
+Final weight: 237
+Items selected: 0 1 5 6 8 19 21 
+ 
+Run 5 with input2.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.502e-06 seconds
+Max value: 300
+Final weight: 236
+Items selected: 1 2 6 9 24 40 
+ 
+---------------- input3.txt -----------------------------
+Run 1 with input3.txt:
+Probabilistic Heuristic Method:
+Execution time: 7.83e-06 seconds
+Max value: 1149
+Final weight: 174
+Items selected: 2 6 7 8 12 15 16 19 20 22 27 28 31 32 35 39 41 43 45 46 47 48 56 58 61 62 
+ 
+Run 2 with input3.txt:
+Probabilistic Heuristic Method:
+Execution time: 7.906e-06 seconds
+Max value: 1665
+Final weight: 220
+Items selected: 2 6 8 9 10 11 12 15 16 18 20 21 23 24 25 26 27 28 30 31 32 40 43 47 53 54 55 57 58 59 60 62 63 64 65 
+ 
+Run 3 with input3.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.429e-06 seconds
+Max value: 1646
+Final weight: 192
+Items selected: 1 2 3 9 10 11 12 13 15 16 17 18 20 21 23 31 33 34 35 36 37 39 41 42 43 45 48 54 57 58 61 64 
+ 
+Run 4 with input3.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.46e-06 seconds
+Max value: 1790
+Final weight: 213
+Items selected: 2 3 5 7 10 12 13 15 16 17 18 19 20 24 26 27 29 31 32 33 35 37 40 41 42 43 44 46 47 49 51 53 56 57 59 60 64 
+ 
+Run 5 with input3.txt:
+Probabilistic Heuristic Method:
+Execution time: 7.821e-06 seconds
+Max value: 1707
+Final weight: 210
+Items selected: 1 7 9 10 12 13 14 19 21 24 25 26 29 30 31 32 33 35 39 40 42 44 46 47 48 50 51 55 56 60 62 64 
+ 
+---------------- input4.txt -----------------------------
+Run 1 with input4.txt:
+Probabilistic Heuristic Method:
+Execution time: 7.251e-06 seconds
+Max value: 352
+Final weight: 389
+Items selected: 5 7 8 10 13 15 16 18 22 23 25 28 
+ 
+Run 2 with input4.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.104e-06 seconds
+Max value: 416
+Final weight: 592
+Items selected: 0 1 2 3 5 6 9 11 12 14 16 20 21 24 28 29 
+ 
+Run 3 with input4.txt:
+Probabilistic Heuristic Method:
+Execution time: 7.328e-06 seconds
+Max value: 488
+Final weight: 594
+Items selected: 0 1 4 5 6 7 9 10 12 14 15 16 18 22 24 26 
+ 
+Run 4 with input4.txt:
+Probabilistic Heuristic Method:
+Execution time: 7.977e-06 seconds
+Max value: 441
+Final weight: 552
+Items selected: 0 4 5 7 8 10 11 15 16 17 19 22 23 24 25 28 29 
+ 
+Run 5 with input4.txt:
+Probabilistic Heuristic Method:
+Execution time: 8.071e-06 seconds
+Max value: 344
+Final weight: 495
+Items selected: 2 3 4 5 7 8 11 12 15 18 20 23 24 25 26 
+ 
+================ End of Heuristic Executions ================
