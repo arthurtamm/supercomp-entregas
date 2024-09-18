@@ -1,0 +1,417 @@
+*******************************************
+Results for input: input1.txt
+*******************************************
+Executing Swap Method...
+Run 1 - Swap Method:
+Execution time: 3.2114e-05 seconds
+Max value: 548
+Final weight: 375
+Items selected: 0 44 31 35 11 37 2 15  (Execution time: .005576193 seconds)
+Run 2 - Swap Method:
+Execution time: 2.228e-05 seconds
+Max value: 431
+Final weight: 343
+Items selected: 0 35 11 2 25 15  (Execution time: .006089249 seconds)
+Run 3 - Swap Method:
+Execution time: 3.5329e-05 seconds
+Max value: 548
+Final weight: 375
+Items selected: 0 11 44 35 37 31 2 15  (Execution time: .005931870 seconds)
+Run 4 - Swap Method:
+Execution time: 1.9378e-05 seconds
+Max value: 431
+Final weight: 379
+Items selected: 0 35 2 11 25 43  (Execution time: .006201102 seconds)
+Run 5 - Swap Method:
+Execution time: 1.6995e-05 seconds
+Max value: 498
+Final weight: 372
+Items selected: 0 2 35 44 25 11 15  (Execution time: .005437139 seconds)
+Run 6 - Swap Method:
+Execution time: 2.1025e-05 seconds
+Max value: 431
+Final weight: 343
+Items selected: 0 35 11 2 25 15  (Execution time: .004842267 seconds)
+Run 7 - Swap Method:
+Execution time: 8.036e-06 seconds
+Max value: 431
+Final weight: 343
+Items selected: 0 35 11 2 15 25  (Execution time: .001967677 seconds)
+Run 8 - Swap Method:
+Execution time: 1.0528e-05 seconds
+Max value: 498
+Final weight: 372
+Items selected: 0 35 2 11 25 15 44  (Execution time: .001990074 seconds)
+Run 9 - Swap Method:
+Execution time: 7.535e-06 seconds
+Max value: 431
+Final weight: 343
+Items selected: 0 35 2 11 25 15  (Execution time: .001972974 seconds)
+Run 10 - Swap Method:
+Execution time: 8.014e-06 seconds
+Max value: 431
+Final weight: 343
+Items selected: 0 35 2 11 25 15  (Execution time: .001895518 seconds)
+---------------------------------------
+swap results:
+---------------------------------------
+548
+431
+548
+431
+498
+431
+431
+498
+431
+431
+---------------------------------------
+swap best value: 548
+swap average execution time: .004190 seconds
+
+Executing Hill Climbing Method...
+Run 1 - Hill Climbing Method:
+Execution time: 1.6093e-05 seconds
+Max value: 355
+Final weight: 378
+Items selected: 0 4 7 14 38 42 44  (Execution time: .001940771 seconds)
+Run 2 - Hill Climbing Method:
+Execution time: 1.4293e-05 seconds
+Max value: 253
+Final weight: 374
+Items selected: 6 14 15 25 42 46  (Execution time: .002025847 seconds)
+Run 3 - Hill Climbing Method:
+Execution time: 1.3928e-05 seconds
+Max value: 196
+Final weight: 378
+Items selected: 4 6 7 17 32 41  (Execution time: .001869073 seconds)
+Run 4 - Hill Climbing Method:
+Execution time: 1.5642e-05 seconds
+Max value: 432
+Final weight: 371
+Items selected: 0 25 34 35 43 44 47  (Execution time: .002003916 seconds)
+Run 5 - Hill Climbing Method:
+Execution time: 1.496e-05 seconds
+Max value: 150
+Final weight: 360
+Items selected: 1 8 9 28 32 46  (Execution time: .002009236 seconds)
+Run 6 - Hill Climbing Method:
+Execution time: 1.3912e-05 seconds
+Max value: 323
+Final weight: 380
+Items selected: 11 15 16 24 33 43  (Execution time: .001866246 seconds)
+Run 7 - Hill Climbing Method:
+Execution time: 1.7371e-05 seconds
+Max value: 416
+Final weight: 374
+Items selected: 7 15 29 30 34 35 44 45  (Execution time: .001982297 seconds)
+Run 8 - Hill Climbing Method:
+Execution time: 1.5514e-05 seconds
+Max value: 362
+Final weight: 371
+Items selected: 1 3 5 14 24 25 27 44  (Execution time: .001952257 seconds)
+Run 9 - Hill Climbing Method:
+Execution time: 1.5314e-05 seconds
+Max value: 303
+Final weight: 378
+Items selected: 3 9 16 24 30 39 44  (Execution time: .001903945 seconds)
+Run 10 - Hill Climbing Method:
+Execution time: 1.518e-05 seconds
+Max value: 272
+Final weight: 376
+Items selected: 3 6 14 16 30 36 41  (Execution time: .001995457 seconds)
+---------------------------------------
+hill results:
+---------------------------------------
+355
+253
+196
+432
+150
+323
+416
+362
+303
+272
+---------------------------------------
+hill best value: 432
+hill average execution time: .001954 seconds
+
+*******************************************
+Results for input: input2.txt
+*******************************************
+Executing Swap Method...
+Run 1 - Swap Method:
+Execution time: 1.2039e-05 seconds
+Max value: 452
+Final weight: 213
+Items selected: 40 53 56 6 74 73 19  (Execution time: .001942498 seconds)
+Run 2 - Swap Method:
+Execution time: 1.4573e-05 seconds
+Max value: 513
+Final weight: 226
+Items selected: 40 6 74 53 56 19 73 61  (Execution time: .001879975 seconds)
+Run 3 - Swap Method:
+Execution time: 1.1473e-05 seconds
+Max value: 452
+Final weight: 213
+Items selected: 40 6 53 56 73 74 19  (Execution time: .001999530 seconds)
+Run 4 - Swap Method:
+Execution time: 1.0012e-05 seconds
+Max value: 327
+Final weight: 185
+Items selected: 53 6 40 56 73  (Execution time: .001901470 seconds)
+Run 5 - Swap Method:
+Execution time: 1.0656e-05 seconds
+Max value: 390
+Final weight: 194
+Items selected: 6 53 40 56 73 74  (Execution time: .001840921 seconds)
+Run 6 - Swap Method:
+Execution time: 8.499e-06 seconds
+Max value: 327
+Final weight: 185
+Items selected: 53 40 6 56 73  (Execution time: .001853696 seconds)
+Run 7 - Swap Method:
+Execution time: 1.1084e-05 seconds
+Max value: 390
+Final weight: 194
+Items selected: 6 53 40 56 74 73  (Execution time: .001969268 seconds)
+Run 8 - Swap Method:
+Execution time: 1.6439e-05 seconds
+Max value: 513
+Final weight: 226
+Items selected: 40 56 6 53 74 19 73 61  (Execution time: .001952247 seconds)
+Run 9 - Swap Method:
+Execution time: 1.6969e-05 seconds
+Max value: 569
+Final weight: 222
+Items selected: 40 53 56 74 6 19 26 61 33  (Execution time: .001964662 seconds)
+Run 10 - Swap Method:
+Execution time: 1.6814e-05 seconds
+Max value: 569
+Final weight: 222
+Items selected: 40 53 56 74 19 6 26 61 33  (Execution time: .001907017 seconds)
+---------------------------------------
+swap results:
+---------------------------------------
+452
+513
+452
+327
+390
+327
+390
+513
+569
+569
+---------------------------------------
+swap best value: 569
+swap average execution time: .001921 seconds
+
+Executing Hill Climbing Method...
+Run 1 - Hill Climbing Method:
+Execution time: 2.2451e-05 seconds
+Max value: 135
+Final weight: 238
+Items selected: 3 4 42 48  (Execution time: .001989383 seconds)
+Run 2 - Hill Climbing Method:
+Execution time: 2.4226e-05 seconds
+Max value: 324
+Final weight: 239
+Items selected: 10 21 28 35 40 44 60 70 72  (Execution time: .002164260 seconds)
+Run 3 - Hill Climbing Method:
+Execution time: 2.3587e-05 seconds
+Max value: 317
+Final weight: 235
+Items selected: 8 15 25 40 42 44 64  (Execution time: .001940720 seconds)
+Run 4 - Hill Climbing Method:
+Execution time: 2.2898e-05 seconds
+Max value: 206
+Final weight: 237
+Items selected: 4 18 26 50  (Execution time: .002057089 seconds)
+Run 5 - Hill Climbing Method:
+Execution time: 2.42e-05 seconds
+Max value: 279
+Final weight: 235
+Items selected: 23 24 42 45 53 71 72  (Execution time: .001931420 seconds)
+Run 6 - Hill Climbing Method:
+Execution time: 2.425e-05 seconds
+Max value: 350
+Final weight: 239
+Items selected: 24 26 40 51 54 60 64 74  (Execution time: .001882314 seconds)
+Run 7 - Hill Climbing Method:
+Execution time: 2.5875e-05 seconds
+Max value: 359
+Final weight: 239
+Items selected: 9 42 44 54 56 59 60 72  (Execution time: .001943346 seconds)
+Run 8 - Hill Climbing Method:
+Execution time: 2.3165e-05 seconds
+Max value: 184
+Final weight: 237
+Items selected: 3 7 40 57 60 62  (Execution time: .001904885 seconds)
+Run 9 - Hill Climbing Method:
+Execution time: 2.2509e-05 seconds
+Max value: 294
+Final weight: 238
+Items selected: 0 6 16 36 44 59 72  (Execution time: .002057384 seconds)
+Run 10 - Hill Climbing Method:
+Execution time: 2.3428e-05 seconds
+Max value: 472
+Final weight: 239
+Items selected: 8 28 29 33 44 47 56 61 69 74  (Execution time: .002015891 seconds)
+---------------------------------------
+hill results:
+---------------------------------------
+135
+324
+317
+206
+279
+350
+359
+184
+294
+472
+---------------------------------------
+hill best value: 472
+hill average execution time: .001988 seconds
+
+*******************************************
+Results for input: input3.txt
+*******************************************
+Executing Swap Method...
+Run 1 - Swap Method:
+Execution time: 7.823e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 33 1 7 12 24 42 5 8 26 50 4 3 60 28 32 45 36 58 25 23 63 43 9 59 46 40 22 16 2 55 20 44 31 52 13 37 34 0 17 53 14 6 61 35 29 15 10 62 56 47 19 48 30 27 54 57 21 64 51 11 49 38 18 39 65 41  (Execution time: .001904279 seconds)
+Run 2 - Swap Method:
+Execution time: 7.53e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 59 4 38 46 51 55 56 14 24 10 48 40 42 54 16 19 44 57 0 2 30 1 6 15 62 27 17 53 23 11 49 26 64 43 61 21 50 45 31 3 32 20 22 60 63 41 58 47 39 28 5 65 8 12 9 52 25 13 7 29 36 35 37 33 34 18  (Execution time: .001863935 seconds)
+Run 3 - Swap Method:
+Execution time: 7.184e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 31 12 44 6 57 52 4 40 29 9 34 50 60 1 33 23 45 42 7 26 13 63 58 56 5 55 35 11 25 46 43 39 64 65 17 37 61 51 14 16 38 0 15 10 24 19 47 53 18 8 28 49 41 21 62 36 20 2 54 30 3 59 22 48 27 32  (Execution time: .001914992 seconds)
+Run 4 - Swap Method:
+Execution time: 6.694e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 22 58 61 33 52 40 9 42 59 65 34 63 46 57 62 21 41 15 54 53 27 26 19 1 29 11 2 47 45 10 4 14 55 6 51 31 60 7 56 23 38 8 30 64 35 32 12 37 24 25 44 13 3 39 49 20 5 18 28 48 43 17 16 0 36 50  (Execution time: .001989423 seconds)
+Run 5 - Swap Method:
+Execution time: 6.847e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 37 64 56 25 36 52 14 59 46 53 49 7 63 31 29 40 13 15 58 3 62 60 6 20 28 33 65 50 42 12 1 51 10 26 47 2 19 27 18 11 24 45 35 43 22 38 61 4 44 57 41 48 16 21 54 34 30 39 8 0 23 9 5 55 17 32  (Execution time: .001971662 seconds)
+Run 6 - Swap Method:
+Execution time: 6.671e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 12 0 41 58 62 1 8 21 23 6 19 52 57 29 14 24 16 5 37 2 20 53 45 51 47 27 36 10 28 11 48 15 60 35 38 13 56 55 44 31 17 18 39 61 59 34 43 64 63 33 40 50 30 49 54 26 32 9 25 46 7 4 22 42 3 65  (Execution time: .001939870 seconds)
+Run 7 - Swap Method:
+Execution time: 6.718e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 13 3 54 15 37 55 29 31 26 30 35 61 45 12 56 40 7 48 41 53 50 65 58 60 46 25 20 44 52 24 10 22 42 62 38 5 18 11 16 28 33 27 63 8 36 23 57 1 47 34 51 19 9 21 59 43 39 0 2 64 32 49 14 4 6 17  (Execution time: .001892382 seconds)
+Run 8 - Swap Method:
+Execution time: 6.661e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 57 32 30 45 59 7 20 38 62 16 11 48 50 28 56 10 13 52 25 14 21 55 29 54 40 33 26 46 19 12 43 1 37 47 0 24 9 44 64 15 42 51 41 4 36 63 39 18 27 60 22 53 2 31 61 5 58 3 17 6 23 65 34 35 8 49  (Execution time: .001904801 seconds)
+Run 9 - Swap Method:
+Execution time: 7.024e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 54 40 56 60 8 41 32 16 20 19 9 3 46 10 27 50 7 36 18 31 49 44 24 33 64 30 42 0 38 47 14 22 35 23 17 65 61 43 21 53 37 57 28 34 25 1 12 6 13 63 48 59 52 15 11 51 26 29 62 45 55 58 5 2 4 39  (Execution time: .001981176 seconds)
+Run 10 - Swap Method:
+Execution time: 6.797e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 23 0 1 45 52 41 24 54 62 9 18 57 35 8 21 36 22 28 59 6 11 53 37 20 64 16 43 10 7 61 46 42 47 17 56 26 29 12 51 30 2 25 19 31 65 32 40 15 4 49 34 55 5 39 50 13 58 27 60 38 3 48 33 44 63 14  (Execution time: .001856873 seconds)
+---------------------------------------
+swap results:
+---------------------------------------
+3320
+3320
+3320
+3320
+3320
+3320
+3320
+3320
+3320
+3320
+---------------------------------------
+swap best value: 3320
+swap average execution time: .001921 seconds
+
+Executing Hill Climbing Method...
+Run 1 - Hill Climbing Method:
+Execution time: 2.2271e-05 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65  (Execution time: .001959332 seconds)
+Run 2 - Hill Climbing Method:
+Execution time: 2.0692e-05 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65  (Execution time: .002005369 seconds)
+Run 3 - Hill Climbing Method:
+Execution time: 2.1004e-05 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65  (Execution time: .001903717 seconds)
+Run 4 - Hill Climbing Method:
+Execution time: 1.9722e-05 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65  (Execution time: .001926985 seconds)
+Run 5 - Hill Climbing Method:
+Execution time: 2.029e-05 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65  (Execution time: .001927339 seconds)
+Run 6 - Hill Climbing Method:
+Execution time: 1.9803e-05 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65  (Execution time: .001906140 seconds)
+Run 7 - Hill Climbing Method:
+Execution time: 2.023e-05 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65  (Execution time: .001973003 seconds)
+Run 8 - Hill Climbing Method:
+Execution time: 2.0806e-05 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65  (Execution time: .001900821 seconds)
+Run 9 - Hill Climbing Method:
+Execution time: 1.9357e-05 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65  (Execution time: .001948013 seconds)
+Run 10 - Hill Climbing Method:
+Execution time: 2.1379e-05 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65  (Execution time: .001896065 seconds)
+---------------------------------------
+hill results:
+---------------------------------------
+3320
+3320
+3320
+3320
+3320
+3320
+3320
+3320
+3320
+3320
+---------------------------------------
+hill best value: 3320
+hill average execution time: .001934 seconds
+

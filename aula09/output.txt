@@ -1,0 +1,80 @@
+Processing ./inputs/input1.txt
+ 
+Max Value Method:
+Execution time: 1.6996e-05 seconds
+Max value: 498
+Final weight: 372
+Items selected: 35 0 2 11 25 15 44 
+ 
+Min Weight Method:
+Execution time: 8.484e-06 seconds
+Max value: 493
+Final weight: 364
+Items selected: 1 7 30 44 37 0 31 36 26 41 34 
+ 
+Best Ratio Method:
+Execution time: 1.1664e-05 seconds
+Max value: 601
+Final weight: 373
+Items selected: 44 0 37 31 36 35 15 30 20 7 
+------------------------------------------------------------------------------------------------------------
+Processing ./inputs/input2.txt
+ 
+Max Value Method:
+Execution time: 1.0785e-05 seconds
+Max value: 613
+Final weight: 238
+Items selected: 53 6 40 73 56 74 19 61 44 72 
+ 
+Min Weight Method:
+Execution time: 1.5253e-05 seconds
+Max value: 779
+Final weight: 237
+Items selected: 44 72 24 74 69 40 8 0 61 56 68 31 19 63 33 53 37 
+ 
+Best Ratio Method:
+Execution time: 1.5486e-05 seconds
+Max value: 870
+Final weight: 239
+Items selected: 44 40 74 72 24 8 61 56 19 69 53 33 68 70 59 37 
+------------------------------------------------------------------------------------------------------------
+Processing ./inputs/input3.txt
+ 
+Max Value Method:
+Execution time: 9.607e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 51 64 53 38 23 15 14 0 56 47 44 12 9 65 54 17 34 33 31 63 58 29 30 52 41 19 25 2 1 21 5 26 43 61 35 7 3 50 48 45 20 39 60 11 24 13 27 49 55 10 62 22 36 37 4 6 28 42 32 46 18 59 57 40 16 8 
+ 
+Min Weight Method:
+Execution time: 8.694e-06 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 31 37 47 15 51 17 34 36 21 20 8 54 5 53 49 60 48 3 30 45 27 26 65 52 29 4 40 18 14 12 38 46 59 33 50 1 57 7 11 13 16 19 23 41 44 64 6 39 0 32 10 28 58 43 25 42 9 55 56 24 22 2 61 62 63 35 
+ 
+Best Ratio Method:
+Execution time: 1.5581e-05 seconds
+Max value: 3320
+Final weight: 405
+Items selected: 51 15 47 31 54 17 34 53 14 30 21 12 65 38 5 29 52 23 33 20 64 0 26 44 3 41 48 45 19 56 37 60 1 9 58 63 27 25 2 49 36 7 50 11 43 13 61 35 39 24 4 10 55 22 62 6 28 42 46 32 40 18 59 8 16 57 
+------------------------------------------------------------------------------------------------------------
+Processing ./inputs/input4.txt
+ 
+Max Value Method:
+Execution time: 5.691e-06 seconds
+Max value: 527
+Final weight: 600
+Items selected: 17 7 9 14 3 10 27 28 6 18 16 1 23 26 
+ 
+Min Weight Method:
+Execution time: 5.403e-06 seconds
+Max value: 581
+Final weight: 562
+Items selected: 26 13 8 25 24 27 29 16 2 12 28 4 7 15 1 21 17 5 0 22 11 10 14 
+ 
+Best Ratio Method:
+Execution time: 7.445e-06 seconds
+Max value: 648
+Final weight: 600
+Items selected: 26 13 27 8 16 24 7 28 17 4 1 15 21 14 5 10 12 9 22 3 0 
+------------------------------------------------------------------------------------------------------------
