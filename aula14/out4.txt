@@ -1,0 +1,12 @@
+Running pi_serial 10 times...
+Average pi for pi_serial: 3.14166408000000000000
+Average time for pi_serial: 2.00277571230008100000 seconds
+------------------------------------
+Running pi_parallel1 10 times...
+Average pi for pi_parallel1: 3.14168892000000000000
+Average time for pi_parallel1: 2.59696485329995980000 seconds
+------------------------------------
+Running pi_parallel2 10 times...
+Average pi for pi_parallel2: 3.14105600000000000000
+Average time for pi_parallel2: .18853835330000950000 seconds
+------------------------------------
