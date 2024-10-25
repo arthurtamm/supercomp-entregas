@@ -1,0 +1,6 @@
+Process 0 sending message: Message to process 1
+Process 0 sending message: Message to process 2
+Process 0 sending message: Message to process 3
+Process 1 receiving message: Message to process 1
+Process 3 receiving message: Message to process 3
+Process 2 receiving message: Message to process 2

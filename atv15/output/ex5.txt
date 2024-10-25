@@ -1,0 +1,3 @@
+Number of processes: 4
+Sum must be 2
+Process 3 received number 2

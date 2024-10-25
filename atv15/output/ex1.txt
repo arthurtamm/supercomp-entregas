@@ -1,0 +1,2 @@
+Process 0: Hello
+Process 1: Hi

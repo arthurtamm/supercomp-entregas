@@ -1,0 +1,8 @@
+Process 0 sending message: Hi, rank 1!
+Process 1 receiving message: Hi, rank 1!
+Process 1 sending message: Hi, rank 2!
+Process 2 receiving message: Hi, rank 2!
+Process 2 sending message: Hi, rank 3!
+Process 3 sending message: Hi, rank 3!
+Process 3 sending message: Hi, rank 0!
+Process 0 receiving message: Hi, rank 1!

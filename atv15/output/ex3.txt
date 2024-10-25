@@ -1,0 +1,3 @@
+Number of processes: 4
+Process 0 sending message: Hi
+Process 3 receiving message: Hi
