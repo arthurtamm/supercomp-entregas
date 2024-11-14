@@ -1,0 +1,5 @@
+Frequência das bases nitrogenadas no DNA:
+A: 763517118
+C: 511685735
+G: 511971484
+T: 764606176
