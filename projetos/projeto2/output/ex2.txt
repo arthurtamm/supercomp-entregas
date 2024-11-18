@@ -1,0 +1,2 @@
+Arquivos gerados em data/RNA
+Tempo total de execução: 46.1879s
