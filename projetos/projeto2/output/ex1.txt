@@ -4,4 +4,4 @@ C: 511685738
 G: 511971484
 T: 764606181
 
-Tempo total de execução: 6.89061s
+Tempo total de execução: 26.8534s

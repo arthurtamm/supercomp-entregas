@@ -2,13 +2,19 @@
 #include <vector>
 #include <fstream>
 #include <algorithm>
+#include <chrono>
 
 using namespace std;
+using namespace std::chrono;
 
 
-vector<int> findMaxClique(const vector<vector<int>> &graph, const vector<int>& sortedNodes){
+vector<int> findMaxClique(const vector<vector<int>> &graph, int nVertices){
     vector<int> maxClique;
-    vector<int> candidates = sortedNodes;
+    vector<int> candidates;
+
+    for(int i = 0; i < nVertices; i++){
+        candidates.push_back(i);
+    }
 
     while(!candidates.empty()){
         int v = candidates.back();
@@ -69,36 +75,6 @@ std::vector<std::vector<int>> readGraph(const std::string& fileName, int& nVerti
     return graph;
 }
 
-// Função para ordenar os nós por grau de adjacência em ordem decrescente
-vector<int> sortNodesByDegree(const vector<vector<int>>& graph) {
-    int n = graph.size();
-    vector<pair<int, int>> degrees;  // (grau, nó)
-
-    // Calcula o grau de cada nó
-    for (int i = 0; i < n; ++i) {
-        int degree = 0;
-        for (int j = 0; j < n; ++j) {
-            if (graph[i][j] == 1) {
-                degree++;
-            }
-        }
-        degrees.push_back({degree, i});
-    }
-
-    // Ordena pelo grau de forma decrescente
-    sort(degrees.begin(), degrees.end(), [](const pair<int, int>& a, const pair<int, int>& b) {
-        return a.first > b.first;
-    });
-
-    // Extrai apenas os índices dos nós
-    vector<int> sortedNodes;
-    for (const auto& p : degrees) {
-        sortedNodes.push_back(p.second);
-    }
-
-    return sortedNodes;
-}
-
 int main(int argc, char* argv[]) {
     if (argc < 2) {
         std::cerr << "Usage: " << argv[0] << " <filename>" << std::endl;
@@ -109,19 +85,21 @@ int main(int argc, char* argv[]) {
     std::ifstream file(fileName);
 
     int nVertices;
+    auto start = high_resolution_clock::now();
 
     vector<vector<int>> graph = readGraph(fileName, nVertices);
 
-    // Ordena os nós por grau de adjacência
-    vector<int> sortedNodes = sortNodesByDegree(graph);
+    vector<int> maxClique = findMaxClique(graph, nVertices);
 
-    vector<int> maxClique = findMaxClique(graph, sortedNodes);
+    auto end = high_resolution_clock::now();
+    duration<double> duration = end - start;
 
     cout << "Clique máximo: ";
     for (int v : maxClique) {
         cout << (v + 1) << " ";  // Ajusta para exibir índices a partir de 1
     }
     cout << endl;
+    cout << "Tempo de execução: " << duration.count() << " seconds" << endl;
 
     return 0;
 }

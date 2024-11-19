@@ -1,0 +1,10 @@
+100 vertices
+ 
+Clique máximo: 1 10 17 35 38 45 56 60 72 78 83 85 87 94 97 
+Tamanho do clique máximo encontrado: 15
+Tempo de execução: 6.75227 segundos
+150 vertices
+ 
+Clique máximo: 5 9 12 22 35 38 59 61 74 82 106 108 127 132 146 149 150 
+Tamanho do clique máximo encontrado: 17
+Tempo de execução: 295.261 segundos

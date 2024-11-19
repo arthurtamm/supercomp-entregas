@@ -2,14 +2,14 @@ import networkx as nx
 import random
 
 # Parâmetros
-num_vertices = 400  # Número de vértices no grafo
+num_vertices = 100  # Número de vértices no grafo
 probabilidade_conexao = 0.7  # Probabilidade de haver uma aresta entre dois vértices (ajuste conforme necessário)
 
 # Crie um grafo aleatório densamente conectado
 grafo = nx.fast_gnp_random_graph(num_vertices, probabilidade_conexao)
 
 # Nome do arquivo de saída
-nome_arquivo = f"graph{num_vertices}.txt"
+nome_arquivo = f"../graphs/graph{num_vertices}.txt"
 
 # Abra o arquivo para escrita
 with open(nome_arquivo, 'w') as arquivo:
