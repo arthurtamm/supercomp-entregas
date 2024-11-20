@@ -1,3 +1,9 @@
+# Ignore tudo nas pastas
 data/DNA/*
 data/Proteins/*
 data/RNA/*
+
+# Não ignore o arquivo .gitkeep
+!data/DNA/.gitkeep
+!data/Proteins/.gitkeep
+!data/RNA/.gitkeep
