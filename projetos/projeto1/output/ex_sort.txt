@@ -1,3 +1,0 @@
-Vétices: 150
-Clique máximo: 66 71 30 68 50 142 9 110 91 34 80 
-Tempo de execução: 0.000442509 seconds

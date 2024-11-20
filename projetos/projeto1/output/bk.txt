@@ -1,3 +1,0 @@
-Clique máximo: 2 4 11 19 22 26 35 44 59 61 65 112 122 126 129 141 144 
-Tamanho do clique máximo: 17
-Tempo de execução: 100.274 segundos

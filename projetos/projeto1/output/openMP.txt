@@ -1,0 +1,24 @@
+    75 vertices
+Clique máximo: 32 63 49 68 67 65 29 61 20 64 41 37 10 
+Tamanho do clique máximo encontrado: 13
+Tempo de execução: 0.0278459 segundos
+
+100 vertices
+Clique máximo: 93 79 16 17 37 83 56 97 94 34 54 36 87 38 60 
+Tamanho do clique máximo encontrado: 15
+Tempo de execução: 0.235738 segundos
+
+125 vertices
+Clique máximo: 79 73 77 20 35 118 97 46 104 4 53 68 40 24 14 101 
+Tamanho do clique máximo encontrado: 16
+Tempo de execução: 0.882213 segundos
+
+150 vertices
+Clique máximo: 96 78 81 126 17 77 53 129 125 31 122 65 59 27 144 46 2 
+Tamanho do clique máximo encontrado: 17
+Tempo de execução: 6.06241 segundos
+
+200 vertices
+Clique máximo: 150 83 22 23 140 114 200 166 45 62 184 77 116 146 198 135 187 84 112 
+Tamanho do clique máximo encontrado: 19
+Tempo de execução: 52.7601 segundos
